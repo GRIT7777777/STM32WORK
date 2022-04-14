@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/STM32WORK/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                "${workspaceFolder}/STM32WORK/Core/Inc",
+                "${workspaceFolder}/STM32WORK/Drivers/CMSIS/Include",
+                "${workspaceFolder}/STM32WORK/Drivers/STM32F4xx_HAL_Driver/Inc",
+                "${workspaceFolder}/STM32WORK/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F"
+            ],
+            "defines": [
+                "_DEBUG",
+                "USE_HAL_DRIVER",
+                "STM32F407xx"
+            ],
+            "compilerPath": "C:\\Program Files (x86)\\Dev-Cpp\\MinGW64\\bin\\gcc.exe",
+            "cStandard": "c89",
+            "cppStandard": "gnu++98",
+            "intelliSenseMode": "windows-gcc-arm"
+        }
+    ],
+    "version": 4
+}
