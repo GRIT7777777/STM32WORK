@@ -1,0 +1,13 @@
+{
+    "search.useIgnoreFiles": true,
+    "search.useParentIgnoreFiles": false,
+    "search.useGlobalIgnoreFiles": true,
+    "projectManager.git.ignoredFolders": [
+        "node_modules",
+        "out",
+        "typings",
+        "test",
+        ".haxelib",
+        "MDK-ARM"
+    ]
+}
