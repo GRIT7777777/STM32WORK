@@ -8,6 +8,6 @@
         "typings",
         "test",
         ".haxelib",
-        "MDK-ARM"
+        "STWORK\\STM32WORK\\MDK-ARM"
     ]
 }
